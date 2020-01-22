@@ -11,7 +11,7 @@ from frappe import msgprint, _
 from frappe.model.document import Document
 
 from frappe.core.doctype.sms_settings.sms_settings import send_sms
-from erpnext.erpnext_integrations.doctype.whatsapp_settings.whatsapp_settings import send_whatsapp
+from iwhatsapp.iwhatsapp.doctype.iwhatsapp_settings.iwhatsapp_settings import send_whatsapp
 
 class iSMSCenter(Document):
 	def create_receiver_list(self):
