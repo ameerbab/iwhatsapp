@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include iwhatsapp *.css
+recursive-include iwhatsapp *.csv
+recursive-include iwhatsapp *.html
+recursive-include iwhatsapp *.ico
+recursive-include iwhatsapp *.js
+recursive-include iwhatsapp *.json
+recursive-include iwhatsapp *.md
+recursive-include iwhatsapp *.png
+recursive-include iwhatsapp *.py
+recursive-include iwhatsapp *.svg
+recursive-include iwhatsapp *.txt
+recursive-exclude iwhatsapp *.pyc
