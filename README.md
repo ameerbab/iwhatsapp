@@ -1,7 +1,7 @@
-## Iwhatsapp
+### iWhatsApp
 
-iWhatsapp
+### Installation
 
-#### License
+	bench get-app https://github.com/ameerbab/iwhatsapp.git
 
-MIT
+	bench install-app iwhatsapp
