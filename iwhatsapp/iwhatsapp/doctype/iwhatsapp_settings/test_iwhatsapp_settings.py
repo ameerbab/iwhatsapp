@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) 2020, vinhnguyent090@gmail.com and Contributors
+# Copyright (c) 2020, emails@iwex.in and Contributors
 # See license.txt
 from __future__ import unicode_literals
 
