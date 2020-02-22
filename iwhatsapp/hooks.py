@@ -4,11 +4,11 @@ from . import __version__ as app_version
 
 app_name = "iwhatsapp"
 app_title = "Iwhatsapp"
-app_publisher = "vinhnguyent090@gmail.com"
-app_description = "iWhatsapp"
+app_publisher = "emails@iwex.in"
+app_description = "iWhatsApp"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "vinhnguyent090@gmail.com"
+app_email = "emails@iwex.in"
 app_license = "MIT"
 
 # Includes in <head>
