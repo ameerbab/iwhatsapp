@@ -11,7 +11,7 @@ setup(
 	name='iwhatsapp',
 	version=version,
 	description='iWhatsapp',
-	author='emails@iwex.in',
+	author='iWEX Infomatics',
 	author_email='emails@iwex.in',
 	packages=find_packages(),
 	zip_safe=False,
